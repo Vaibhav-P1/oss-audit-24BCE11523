@@ -141,7 +141,3 @@ chmod +x script5.sh && ./script5.sh
 - Working with open-source software tools and utilities
 
 ---
-
-## License
-
-MySQL is distributed under the [GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
